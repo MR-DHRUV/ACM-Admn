@@ -34,8 +34,13 @@
     color: #0087e0 !important;
 }
 
+.navLinkss{
+    margin: 3px;
+}
+
 .navLinkss:hover {
-    color: blue !important;
+    margin: 3px;
+    color: rgb(255, 255, 255) !important;
 }
 .logoNav:hover {
     background: transparent !important;
