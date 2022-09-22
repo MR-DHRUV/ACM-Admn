@@ -6,9 +6,11 @@ function App() {
   return (
     <div className="App">
       {window.innerWidth > 750 ? <Sidebar /> : <BottomNav />}
+      {/* console.log(window.innerWidth)
+      <Sidebar />
+      <BottomNav /> */}
     </div>
   );
 }
 
 export default App;
- 
