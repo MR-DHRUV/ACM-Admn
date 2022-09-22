@@ -22,9 +22,9 @@ const Sidebar = () => {
       <a href='#' className='navLinks'><FaWpforms className='icons' />Forms</a>
       <a href='#' className='navLinks'><FaLink className='icons' />Links</a>
       <a href='#' className='navLinks'><FaAward className='icons' />Certificates</a>
-      <a href='#' className='navLinks'><BsFillPeopleFill className='icons' />Links</a>
-      <a href='#' className='navLinks'><FaHandshake className='icons' />Links</a>
-      <a href='#' className='navLinks'><FaPhoneSquareAlt className='icons' />Links</a>
+      <a href='#' className='navLinks'><BsFillPeopleFill className='icons' />Team</a>
+      <a href='#' className='navLinks'><FaHandshake className='icons' />Join Us</a>
+      <a href='#' className='navLinks'><FaPhoneSquareAlt className='icons' />Contact Us</a>
 
     </div>
   )
