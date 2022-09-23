@@ -8,7 +8,7 @@
     width: 20vw;
     min-width: 250px;
     max-width: 280px;
-    background-color: rgb(69, 184, 255);
+    background-color: rgb(58, 203, 255);
     padding-top: 1.5rem;
     height: 200px;
     position: relative;
@@ -16,7 +16,8 @@
 }
 
 .navLinks {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     text-decoration: none;
     text-transform: capitalize;
     font-weight: 500;
@@ -37,10 +38,10 @@
 }
 
 .navLinks:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     border-right: 3px;
     border-radius: 2rem;
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .navLinkss {

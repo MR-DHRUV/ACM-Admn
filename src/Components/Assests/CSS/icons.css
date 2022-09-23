@@ -4,7 +4,7 @@
     /* color: rgb(255, 255, 255); */
     font-size: 24px;
     align-self: center;
-    color: rgba(255, 255, 255, 0.801);
+    color: rgba(0, 0, 0, 0.801);
 
 }
 .iconss {
@@ -13,7 +13,7 @@
     /* color: rgb(255, 255, 255); */
     font-size: 24px;
     align-self: center;
-    color: rgba(255, 255, 255, 0.801);
+    color: rgba(0, 0, 0, 0.801);
 
 }
 .navbar {
@@ -31,5 +31,5 @@
     color: #46aff5 !important;
 }
 .iconss:hover{
-    color: #000000 !important;
+    color: #ffffff !important;
 }
