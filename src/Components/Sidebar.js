@@ -16,15 +16,15 @@ const Sidebar = () => {
     <div className='sidebar'>
       <h3 className='logoNav'> <img src="https://usict.acm.org/assets/images/acm-logo.svg" alt="" width={70} height={70} /> Acm Admin</h3>
       {/* <hr {width: 60%;margin-left: auto;margin-right: auto;}> */}
-      <a href='#' className='navLinkss'><FaSmileBeam className='icons' />  </a>
-      <a href='#' className='navLinks'><BsFillMegaphoneFill className='icons' />announcements</a>
-      <a href='#' className='navLinks'><FaBlogger className='icons' />Blogs</a>
-      <a href='#' className='navLinks'><FaWpforms className='icons' />Forms</a>
-      <a href='#' className='navLinks'><FaLink className='icons' />Links</a>
-      <a href='#' className='navLinks'><FaAward className='icons' />Certificates</a>
-      <a href='#' className='navLinks'><BsFillPeopleFill className='icons' />Team</a>
-      <a href='#' className='navLinks'><FaHandshake className='icons' />Join Us</a>
-      <a href='#' className='navLinks'><FaPhoneSquareAlt className='icons' />Contact Us</a>
+      <a href='#' className='navLinkss'><FaSmileBeam className='iconss' />  </a>
+      <a href='#' className='navLinks'>&nbsp;<BsFillMegaphoneFill className='icons'/>&nbsp; Announcements</a>
+      <a href='#' className='navLinks'>&nbsp;<FaBlogger className='icons' />Blogs</a>
+      <a href='#' className='navLinks'>&nbsp;<FaWpforms className='icons' />Forms</a>
+      <a href='#' className='navLinks'>&nbsp;<FaLink className='icons' />Links</a>
+      <a href='#' className='navLinks'>&nbsp;<FaAward className='icons' />Certificates</a>
+      <a href='#' className='navLinks'>&nbsp;<BsFillPeopleFill className='icons' />Team</a>
+      <a href='#' className='navLinks'>&nbsp;<FaHandshake className='icons' />Join Us</a>
+      <a href='#' className='navLinks'>&nbsp;<FaPhoneSquareAlt className='icons' />Contact Us</a>
 
     </div>
   )

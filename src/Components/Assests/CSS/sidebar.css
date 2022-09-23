@@ -8,12 +8,15 @@
     width: 20vw;
     min-width: 250px;
     max-width: 280px;
-    background-color: rgb(115, 187, 233);
+    background-color: rgb(69, 184, 255);
     padding-top: 1.5rem;
+    height: 200px;
+    position: relative;
+    /* border: 3px solid green;  */
 }
 
 .navLinks {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     text-decoration: none;
     text-transform: capitalize;
     font-weight: 500;
@@ -25,23 +28,31 @@
     /* border: 2px solid black; */
     margin: 3px;
     /* border-radius: 50px; */
+    margin: 0;
+    position: relative;
+    top: 10%;
+    /* bottom: 50%; */
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .navLinks:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     border-right: 3px;
     border-radius: 2rem;
-    color: #0087e0 !important;
+    color: #ffffff !important;
 }
 
-.navLinkss{
+.navLinkss {
     margin: 3px;
+    align-items: center;
 }
 
 .navLinkss:hover {
     margin: 3px;
     color: rgb(255, 255, 255) !important;
 }
+
 .logoNav:hover {
     background: transparent !important;
 }
