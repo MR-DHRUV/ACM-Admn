@@ -15,14 +15,14 @@ const BottomNav = () => {
         <div className='navbar'>
 
             <div className="items_scroll">
-                <a href='#'><BsFillMegaphoneFill className='icons' /></a>
-                <a href='#'><FaBlogger className='icons' /></a>
-                <a href='#'><FaWpforms className='icons' /></a>
-                <a href='#'><FaLink className='icons' /></a>
-                <a href='#'><FaAward className='icons' /></a>
-                <a href='#'><BsFillPeopleFill className='icons' /></a>
-                <a href='#'><FaHandshake className='icons' /></a>
-                <a href='#'><FaPhoneSquareAlt className='icons' /></a>
+                <a href='#' className='navLink'><BsFillMegaphoneFill className='icons' /></a>
+                <a href='#' className='navLink'><FaBlogger className='icons' /></a>
+                <a href='#' className='navLink'><FaWpforms className='icons' /></a>
+                <a href='#' className='navLink'><FaLink className='icons' /></a>
+                <a href='#' className='navLink'><FaAward className='icons' /></a>
+                <a href='#' className='navLink'><BsFillPeopleFill className='icons' /></a>
+                <a href='#' className='navLink'><FaHandshake className='icons' /></a>
+                <a href='#' className='navLink'><FaPhoneSquareAlt className='icons' /></a>
             </div>
             <a href='#'><FaSmileBeam className='icons' /></a>
         </div>

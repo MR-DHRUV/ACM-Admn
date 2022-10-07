@@ -14,9 +14,9 @@ const Sidebar = () => {
   return (
 
     <div className='sidebar'>
-      <h3 className='logoNav'> <img src="https://usict.acm.org/assets/images/acm-logo.svg" alt="" width={70} height={70} /> Acm Admin</h3>
+      <h3 className='logoNav'> <img src="https://usict.acm.org/assets/images/acm-logo.svg" alt="" width={60} height={60} />ACM ADMIN</h3>
       {/* <hr {width: 60%;margin-left: auto;margin-right: auto;}> */}
-      <a href='#' className='navLinkss'><FaSmileBeam className='iconss' />  </a>
+      <a href='#' className='navLinkss'>&nbsp;&nbsp;&nbsp;<FaSmileBeam className='iconsss' />  </a>
       <a href='#' className='navLinks'>&nbsp;<BsFillMegaphoneFill className='icons'/>&nbsp; Announcements</a>
       <a href='#' className='navLinks'>&nbsp;<FaBlogger className='icons' />Blogs</a>
       <a href='#' className='navLinks'>&nbsp;<FaWpforms className='icons' />Forms</a>
